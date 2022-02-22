@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lukman</h1>
-<h3 align="center">A Full-Stack developer with 5 month experience</h3>
+<h3 align="center">A Full-Stack developer with 6 month experience</h3>
 
 - 👯 I’m looking to collaborate on **ReactJS-NextJs-Django-Postgresql Projects**
 
