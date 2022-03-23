@@ -1,8 +1,8 @@
 ### Мои проекты:
 
-Сайт для делением контактов v2: <a href="https://temir.ae"> Демо </a> <a href="https://temir.ae/user/62a84ba4-a751-4bfb-80e8-2bfa88730690">Ссылка на пользователя</a>
+Сайт для деление контактов v2: <a href="https://temir.ae"> Демо </a> <a href="https://temir.ae/user/62a84ba4-a751-4bfb-80e8-2bfa88730690">Ссылка на пользователя</a>
 
-Сайт для делением контактов v1: <a href="https://black-carbons.com"> Демо </a>
+Сайт для деление контактов v1: <a href="https://black-carbons.com"> Демо </a>
 
 Сайт для конкурсов: <a href="https://kel-okuibuz.com">Демо</a> 
 
